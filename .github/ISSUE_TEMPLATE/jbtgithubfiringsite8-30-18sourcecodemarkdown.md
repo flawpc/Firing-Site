@@ -2,8 +2,9 @@
 name: JBTGitHubFiringSite8-30-18SourceCodeMarkdown
 about: Non-issue, temporary
 
+encoding: UTF-8
 ---
-
+encoding: UTF-8
 <link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=5770327125736233161&amp;zx=27ce4842-8cba-455b-8c20-6817e363b7f1' rel='stylesheet'/>
 FIRING SITE~Heartfelt Thought
 FIRING SITE~Heartfelt Thought~IMPORTANT, PLEASE SEE 5TH PARAGRAPH OF "A Lifesaving Unknown MOST DO NOT KNOW!"~the Thinker (Originally, the Poet) is Looking Down at the Gates of Hell in Deep Thought with Regretful Compassion~a Work of French Sculptor Auguste Rodin (by Some or All, the Sculpture Represents Poet Dante Alighieri or is Derived from His Poetry, Respectively)~Courtesy of Garden-Fountains.com~I RESPECT PRIVACY~NO WILLFUL RECORDING (Google ad tracking IS presumed)
