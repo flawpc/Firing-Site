@@ -1,3 +1,4 @@
+encoding: UTF-8
 <!DOCTYPE html>
 <html class='v2' dir='ltr' lang='en'>
 <head>
